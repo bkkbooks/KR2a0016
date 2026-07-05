@@ -129,7 +129,6 @@ markers:
   - {type: 'tls:seg', offset: 266, content: '', id: KR2a0016_ZHSJ_090-d90p4s11}
   - {type: punctuation, offset: 271, content: ．, id: KR2a0016_ZHSJ_090-bkkpn41}
   - {type: 'tls:seg', offset: 271, content: '', id: KR2a0016_ZHSJ_090-d90p4s12}
-  - {type: substitution, offset: 271, original: 昇, replacement: 升, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0043}}
   - {type: variant, offset: 273, length: 1, content: 二, WYG: 元}
   - {type: variant, offset: 273, length: 1, content: 二, krp: 元}
   - {type: punctuation, offset: 275, content: ，, id: KR2a0016_ZHSJ_090-bkkpn42}
@@ -172,7 +171,6 @@ markers:
   - {type: variant, offset: 335, length: 1, content: 戶, krp: 戸}
   - {type: punctuation, offset: 336, content: ．, id: KR2a0016_ZHSJ_090-bkkpn56}
   - {type: 'tls:seg', offset: 336, content: '', id: KR2a0016_ZHSJ_090-d90p6s5}
-  - {type: substitution, offset: 336, original: 昇, replacement: 升, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0043}}
   - {type: punctuation, offset: 340, content: ，, id: KR2a0016_ZHSJ_090-bkkpn57}
   - {type: 'tls:seg', offset: 340, content: '', id: KR2a0016_ZHSJ_090-d90p6s6}
   - {type: punctuation, offset: 344, content: 、, id: KR2a0016_ZHSJ_090-bkkpn58}
@@ -223,7 +221,6 @@ markers:
   - {type: xml-element, offset: 429, content: '', id: KR2a0016_ZHSJ_090-bkkxmlele13}
   - {type: 'tls:seg', offset: 429, content: '', id: KR2a0016_ZHSJ_090-d90p7s1}
   - {type: line-break, offset: 429, content: '', id: ZHSJ__dup27391}
-  - {type: substitution, offset: 435, original: 岳, replacement: 嶽, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4348}}
   - {type: punctuation, offset: 436, content: ，, id: KR2a0016_ZHSJ_090-bkkpn78}
   - {type: 'tls:seg', offset: 436, content: '', id: KR2a0016_ZHSJ_090-d90p7s2}
   - {type: punctuation, offset: 442, content: ．, id: KR2a0016_ZHSJ_090-bkkpn79}
@@ -323,4 +320,4 @@ markers:
   - {type: page-break, offset: 557, content: '', id: KR2a0016_WYG_090-4b, image: WYG0258/WYG0258-0567b.png}
   - {type: variant, offset: 557, length: 0, content: '', krp: 宋書卷九十宋書卷九十考證明四王傳智井爕賛並出繼南史爕字下有躋字謂江夏王躋也邵陵殤王友傳府州文案及臣吏不諱有無之有臣承蒼按邵陵王名友有與友同聲此言不諱嫌名也南史改下四字云有無君之心其誤甚矣宋書卷九十考證}
   back: []
-hash: sha256:4cac2e475924335a478a1dd4eb48e5d0a2d2b0d50cf0e3cb3837fb99a9ac71ee
+hash: sha256:6ded43afd7f7c70fedd0fb640dab85153c6eb28a416cfaec75016732893bc5ad
