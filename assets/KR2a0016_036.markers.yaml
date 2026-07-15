@@ -2691,6 +2691,7 @@ markers:
   - {type: punctuation, offset: 4104, content: 〔三九〕, id: KR2a0016_ZHSJ_036-bkkpn1076}
   - {type: 'tls:seg', offset: 4104, content: '', id: KR2a0016_ZHSJ_036-d36p35s31}
   - {type: line-break, offset: 4104, content: '', id: ZHSJ__dup13633}
+  - {type: substitution, offset: 4105, original: 脩, replacement: 修, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16957}}
   - {type: punctuation, offset: 4108, content: ，, id: KR2a0016_ZHSJ_036-bkkpn1077}
   - {type: 'tls:seg', offset: 4108, content: '', id: KR2a0016_ZHSJ_036-d36p35s32}
   - {type: punctuation, offset: 4115, content: ．, id: KR2a0016_ZHSJ_036-bkkpn1078}
@@ -3294,6 +3295,7 @@ markers:
   - {type: 'tls:seg', offset: 5179, content: '', id: KR2a0016_ZHSJ_036-d36p42s15}
   - {type: variant, offset: 5182, length: 1, content: 錄, WYG: 録}
   - {type: variant, offset: 5182, length: 1, content: 錄, krp: 録}
+  - {type: substitution, offset: 5182, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20840}}
   - {type: punctuation, offset: 5184, content: ：, id: KR2a0016_ZHSJ_036-bkkpn1309}
   - {type: 'tls:seg', offset: 5184, content: '', id: KR2a0016_ZHSJ_036-d36p42s16}
   - {type: punctuation, offset: 5184, content: 「, id: KR2a0016_ZHSJ_036-bkkpn1310}
@@ -3311,8 +3313,10 @@ markers:
   - {type: 'tls:seg', offset: 5215, content: '', id: KR2a0016_ZHSJ_036-d36p42s21}
   - {type: punctuation, offset: 5221, content: ，, id: KR2a0016_ZHSJ_036-bkkpn1316}
   - {type: 'tls:seg', offset: 5221, content: '', id: KR2a0016_ZHSJ_036-d36p42s22}
+  - {type: substitution, offset: 5225, original: 鑪, replacement: 爐, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16780}}
   - {type: variant, offset: 5227, length: 1, content: 劍, WYG: 劒}
   - {type: variant, offset: 5227, length: 1, content: 劍, krp: 劒}
+  - {type: substitution, offset: 5230, original: 鑪, replacement: 爐, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16780}}
   - {type: punctuation, offset: 5232, content: ．, id: KR2a0016_ZHSJ_036-bkkpn1317}
   - {type: punctuation, offset: 5232, content: 」, id: KR2a0016_ZHSJ_036-bkkpn1318}
   - {type: 'tls:seg', offset: 5232, content: '', id: KR2a0016_ZHSJ_036-d36p42s23}
@@ -4416,6 +4420,7 @@ markers:
   - {type: 'tls:seg', offset: 7197, content: '', id: KR2a0016_ZHSJ_036-d36p56s9}
   - {type: punctuation, offset: 7200, content: ，, id: KR2a0016_ZHSJ_036-bkkpn1756}
   - {type: 'tls:seg', offset: 7200, content: '', id: KR2a0016_ZHSJ_036-d36p56s10}
+  - {type: substitution, offset: 7203, original: 鉅, replacement: 巨, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16200}}
   - {type: punctuation, offset: 7205, content: ，, id: KR2a0016_ZHSJ_036-bkkpn1757}
   - {type: 'tls:seg', offset: 7205, content: '', id: KR2a0016_ZHSJ_036-d36p56s11}
   - {type: punctuation, offset: 7213, content: ，, id: KR2a0016_ZHSJ_036-bkkpn1758}
@@ -4884,6 +4889,7 @@ markers:
   - {type: 'tls:seg', offset: 7949, content: '', id: KR2a0016_ZHSJ_036-d36p61s11}
   - {type: punctuation, offset: 7949, content: ), id: KR2a0016_ZHSJ_036-bkkpn1939}
   - {type: line-break, offset: 7949, content: '', id: ZHSJ__dup13852}
+  - {type: substitution, offset: 7949, original: 衞, replacement: 衛, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19982}}
   - {type: punctuation, offset: 7952, content: ，, id: KR2a0016_ZHSJ_036-bkkpn1940}
   - {type: 'tls:seg', offset: 7952, content: '', id: KR2a0016_ZHSJ_036-d36p61s12}
   - {type: punctuation, offset: 7958, content: ．, id: KR2a0016_ZHSJ_036-bkkpn1941}
@@ -5740,4 +5746,4 @@ markers:
   - {type: page-break, offset: 9300, content: '', id: KR2a0016_WYG_036-44b, image: WYG0257/WYG0257-0680b.png}
   - {type: variant, offset: 9300, length: 0, content: '', krp: 宋書卷三十六宋書卷三十六考證州郡志二南康公相晉武帝太康三年以廬陵南部都尉立臣承蒼按南康郡所領縣復有南康公相或以為疑盖劉茂之初封南康郡公以郡守為相入齊降封南康縣公又以縣令為相此志作於齊時故兩存之耳山茌令漢舊縣屬太山孝武建元年度濟北孝武下當有一孝字平原太守漢髙帝立諸郡皆記去州京都水陸道里此條獨無之當是闕文宋書卷三十六考證}
   back: []
-hash: sha256:b5adee29c0ea80947c9ff5cdfde3676ea0cf999c15c8216b437f82adedce4e7e
+hash: sha256:bc378e65b1c6788c45d8e1c903e8ea7749facba92230e78f00ca57f6f016c318
