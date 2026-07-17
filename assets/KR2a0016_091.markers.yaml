@@ -1711,6 +1711,7 @@ markers:
   - {type: punctuation, offset: 2966, content: ．, id: KR2a0016_ZHSJ_091-bkkpn649}
   - {type: 'tls:seg', offset: 2966, content: '', id: KR2a0016_ZHSJ_091-d91p19s2}
   - {type: punctuation, offset: 2966, content: (, id: KR2a0016_ZHSJ_091-bkkpn650}
+  - {type: voice, offset: 2966, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 2968, content: ), id: KR2a0016_ZHSJ_091-bkkpn651}
   - {type: page-break, offset: 2968, content: '', id: KR2a0016_ZHSJ_091-2249a}
   - {type: line-break, offset: 2968, content: '', id: ZHSJ__dup27500}
@@ -1740,6 +1741,7 @@ markers:
   - {type: punctuation, offset: 3000, content: ．, id: KR2a0016_ZHSJ_091-bkkpn659}
   - {type: 'tls:seg', offset: 3000, content: '', id: KR2a0016_ZHSJ_091-d91p20s2}
   - {type: punctuation, offset: 3000, content: (, id: KR2a0016_ZHSJ_091-bkkpn660}
+  - {type: voice, offset: 3000, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 3002, content: ), id: KR2a0016_ZHSJ_091-bkkpn661}
   - {type: line-break, offset: 3002, content: '', id: ZHSJ__dup27502}
   - {type: punctuation, offset: 3006, content: ，, id: KR2a0016_ZHSJ_091-bkkpn662}
@@ -1778,6 +1780,7 @@ markers:
   - {type: punctuation, offset: 3050, content: ．, id: KR2a0016_ZHSJ_091-bkkpn673}
   - {type: 'tls:seg', offset: 3050, content: '', id: KR2a0016_ZHSJ_091-d91p21s6}
   - {type: punctuation, offset: 3050, content: (, id: KR2a0016_ZHSJ_091-bkkpn674}
+  - {type: voice, offset: 3050, length: 2, name: note, id: n3}
   - {type: punctuation, offset: 3052, content: ), id: KR2a0016_ZHSJ_091-bkkpn675}
   - {type: line-break, offset: 3052, content: '', id: ZHSJ__dup27504}
   - {type: punctuation, offset: 3056, content: ，, id: KR2a0016_ZHSJ_091-bkkpn676}
@@ -1808,6 +1811,7 @@ markers:
   - {type: punctuation, offset: 3092, content: ．, id: KR2a0016_ZHSJ_091-bkkpn685}
   - {type: 'tls:seg', offset: 3092, content: '', id: KR2a0016_ZHSJ_091-d91p22s4}
   - {type: punctuation, offset: 3092, content: (, id: KR2a0016_ZHSJ_091-bkkpn686}
+  - {type: voice, offset: 3092, length: 2, name: note, id: n4}
   - {type: punctuation, offset: 3094, content: ), id: KR2a0016_ZHSJ_091-bkkpn687}
   - {type: line-break, offset: 3094, content: '', id: ZHSJ__dup27506}
   - {type: punctuation, offset: 3098, content: ，, id: KR2a0016_ZHSJ_091-bkkpn688}
@@ -1837,6 +1841,7 @@ markers:
   - {type: punctuation, offset: 3126, content: ．, id: KR2a0016_ZHSJ_091-bkkpn695}
   - {type: 'tls:seg', offset: 3126, content: '', id: KR2a0016_ZHSJ_091-d91p23s2}
   - {type: punctuation, offset: 3126, content: (, id: KR2a0016_ZHSJ_091-bkkpn696}
+  - {type: voice, offset: 3126, length: 2, name: note, id: n5}
   - {type: punctuation, offset: 3128, content: ), id: KR2a0016_ZHSJ_091-bkkpn697}
   - {type: line-break, offset: 3128, content: '', id: ZHSJ__dup27508}
   - {type: punctuation, offset: 3132, content: ，, id: KR2a0016_ZHSJ_091-bkkpn698}
@@ -1868,6 +1873,7 @@ markers:
   - {type: punctuation, offset: 3160, content: ．, id: KR2a0016_ZHSJ_091-bkkpn705}
   - {type: 'tls:seg', offset: 3160, content: '', id: KR2a0016_ZHSJ_091-d91p24s2}
   - {type: punctuation, offset: 3160, content: (, id: KR2a0016_ZHSJ_091-bkkpn706}
+  - {type: voice, offset: 3160, length: 2, name: note, id: n6}
   - {type: punctuation, offset: 3162, content: ), id: KR2a0016_ZHSJ_091-bkkpn707}
   - {type: line-break, offset: 3162, content: '', id: ZHSJ__dup27510}
   - {type: punctuation, offset: 3166, content: ，, id: KR2a0016_ZHSJ_091-bkkpn708}
@@ -3813,4 +3819,4 @@ markers:
   - {type: page-break, offset: 6528, content: '', id: KR2a0016_WYG_091-22b, image: WYG0258/WYG0258-0578b.png}
   - {type: variant, offset: 6528, length: 0, content: '', krp: 宋書卷九十一宋書卷九十一考證孝義傳序雖乖理闇主匪由勸賞乖理闇主南本作乘理闇至郭世道傳郭世道㑹稽永興人也世道南史作世通嚴世期傳世期衣飴之南史無衣字吴逵傳晝則庸賃夜則伐木燒磚此誠無有懈倦南史磚下有妻亦同逵四字太守王韶之臨郡發日一本發下有敎字日作曰南史亦作發敎卜天與傳舊將羅訓徐罕皆望風屈附徐罕南史作徐牢宋書卷九十一考證}
   back: []
-hash: sha256:a5032c628ef59a7bd67a5b77174012f7e9cfa7c80f61c03786ab1e88912d7e02
+hash: sha256:896dfdb926bc78bac50f7545de3028c40b9dd8bd28677fa7c43adbc072593bb3

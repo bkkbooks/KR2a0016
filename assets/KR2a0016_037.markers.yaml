@@ -5641,6 +5641,7 @@ markers:
   - {type: punctuation, offset: 9659, content: ．, id: KR2a0016_ZHSJ_037-bkkpn2280}
   - {type: 'tls:seg', offset: 9659, content: '', id: KR2a0016_ZHSJ_037-d37p61s19}
   - {type: punctuation, offset: 9659, content: (, id: KR2a0016_ZHSJ_037-bkkpn2281}
+  - {type: 'voice:problem', offset: 9659, length: 109, id: KR2a0016_bkk_037-bkkvprob1, source: parens, bucket: body, code: expected-close, message: 'expected '')'' after ''('' at offset 9659, got ''('' at offset 9768'}
   - {type: punctuation, offset: 9666, content: ，, id: KR2a0016_ZHSJ_037-bkkpn2282}
   - {type: 'tls:seg', offset: 9666, content: '', id: KR2a0016_ZHSJ_037-d37p61s20}
   - {type: punctuation, offset: 9670, content: ．, id: KR2a0016_ZHSJ_037-bkkpn2283}
@@ -6889,4 +6890,4 @@ markers:
   - {type: page-break, offset: 11494, content: '', id: KR2a0016_WYG_037-52b, image: WYG0257/WYG0257-0706b.png}
   - {type: variant, offset: 11494, length: 0, content: '', krp: 宋書卷三十七宋書卷三十七考證州郡志三灃陽令晉武帝太康四年立灃南本作澧下臨灃亦作臨澧孝武大明八年省西陽之赤亭陽城彭城三縣彭城當作彭波北上洛蓋是何志以後僑立耳今治曰何曰何二字疑有誤宋書卷三十七考證}
   back: []
-hash: sha256:1239a415d6d6ea5fc555965e812ae1f2678a344331ce324573579813e25ef17b
+hash: sha256:f30bf9b1971cb37cea88bc7305a81da5b2b55ad08fb36b78cc1c797c40f6806c

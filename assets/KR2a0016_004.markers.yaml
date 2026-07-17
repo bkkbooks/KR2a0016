@@ -779,6 +779,7 @@ markers:
   - {type: variant, offset: 1212, length: 5, content: 上闕則創業, WYG: 宋書卷四宋書卷四考證少帝紀突走出昌門追以門闗踣}
   - {type: page-break, offset: 1212, content: '', id: KR2a0016_WYG_004-5a, image: WYG0257/WYG0257-0055a.png}
   - {type: variant, offset: 1212, length: 5, content: 上闕則創業, krp: 宋書卷四宋書卷四考證少帝紀突走出昌門追以門闗踣}
+  - {type: voice, offset: 1212, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 1214, content: ), id: KR2a0016_ZHSJ_004-bkkpn262}
   - {type: variant, offset: 1218, length: 1, content: 君, WYG: 闗}
   - {type: page-break, offset: 1218, content: '', id: KR2a0016_WYG_004-5b, image: WYG0257/WYG0257-0055b.png}
@@ -820,4 +821,4 @@ markers:
   - {type: xml-element, offset: 1231, content: '', id: KR2a0016_ZHSJ_004-d4n1}
   - {type: xml-element, offset: 1231, content: '', id: KR2a0016_ZHSJ_004-d4n1_end}
   back: []
-hash: sha256:8677054e84b3945a9262cb6fd18858edb9a3ee7545ba64d91359b97d819cec82
+hash: sha256:725513a8e67d9d3c6b5792affec0ff7793e0632deafc5ff0ff928f54ea303265

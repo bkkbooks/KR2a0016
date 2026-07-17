@@ -15,6 +15,7 @@ markers:
   - {type: variant, offset: 6, length: 0, content: '', krp: 梁沈約撰}
   - {type: line-break, offset: 11, content: '', id: ZHSJ__dup19678}
   - {type: punctuation, offset: 13, content: (, id: KR2a0016_ZHSJ_059-bkkpn1}
+  - {type: voice, offset: 13, length: 5, name: note, id: n1}
   - {type: indent, offset: 15, content: 　, id: KR2a0016_ZHSJ_059-bkkind1}
   - {type: indent, offset: 17, content: 　, id: KR2a0016_ZHSJ_059-bkkind2}
   - {type: punctuation, offset: 18, content: ), id: KR2a0016_ZHSJ_059-bkkpn2}
@@ -3596,4 +3597,4 @@ markers:
   - {type: page-break, offset: 6037, content: '', id: KR2a0016_WYG_059-20b, image: WYG0258/WYG0258-0203b.png}
   - {type: variant, offset: 6037, length: 0, content: '', krp: 宋書卷五十九宋書卷五十九考證何偃傳縁邉鎮戍充實者寡監本脫邉字今增宋書卷五十九考證}
   back: []
-hash: sha256:9aa7c640e4e3cabe0000c250e19cb1933c9cf79d1a6e8369a81ecfbafc0e73fa
+hash: sha256:a466926f46e7fcf2707a551843bd64827693bc92fe1a517a733fbd4ecc57291a

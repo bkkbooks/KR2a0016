@@ -6962,6 +6962,7 @@ markers:
   - {type: punctuation, offset: 11698, content: ．, id: KR2a0016_ZHSJ_095-bkkpn2286}
   - {type: 'tls:seg', offset: 11698, content: '', id: KR2a0016_ZHSJ_095-d95p175s26}
   - {type: punctuation, offset: 11698, content: (, id: KR2a0016_ZHSJ_095-bkkpn2287}
+  - {type: voice, offset: 11698, length: 7, name: note, id: n1}
   - {type: punctuation, offset: 11705, content: ．, id: KR2a0016_ZHSJ_095-bkkpn2288}
   - {type: 'tls:seg', offset: 11705, content: '', id: KR2a0016_ZHSJ_095-d95p175s27}
   - {type: punctuation, offset: 11705, content: ), id: KR2a0016_ZHSJ_095-bkkpn2289}
@@ -10053,4 +10054,4 @@ markers:
   - {type: page-break, offset: 17106, content: '', id: KR2a0016_WYG_095-53b, image: WYG0258/WYG0258-0639d.png}
   - {type: variant, offset: 17106, length: 0, content: '', krp: 宋書卷九十五宋書卷九十五考證索虜傳遣鄭兵將軍揚州刺史山陽公逹奚斤鄭兵魏書作晉兵移鎭長廣之不期城下以固守以功進號前將軍封建陵縣男下一本作䕫謂竺䕫也臣承蒼按不期當作不其下以固守以功六字當去一以字作䕫以固守功五字劉粹據項城沈狸屯髙橋沈字下當有叔字河南中國多湮没非所南本多字下有故字宜由闗稜威震􅹥􅹥字不見字書疑作殄謂震懾而殄滅之也宋書卷九十五考證}
   back: []
-hash: sha256:abf0a2cefe53b9bd70ddda18852e03dceecbaf75a3e00f82733cc72df22e9bbb
+hash: sha256:d3e7e9a76543d612e9a1064545c2cdad3c18d172ef1cfcf034d39822eb7c2968

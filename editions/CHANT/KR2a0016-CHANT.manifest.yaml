@@ -182,7 +182,7 @@ assets:
   - {seq: 73, role: markers, filename: assets/KR2a0016_073-CHANT.markers.yaml, hash: 'sha256:b3e947d70ff35754e0bf463b7ffe4d39f947296daec44fda135b8475b5ceecb2'}
   - {seq: 74, role: markers, filename: assets/KR2a0016_074-CHANT.markers.yaml, hash: 'sha256:4879a44466d93253c8ecc2d6fbf7d841530b1df8fb2207d0d24325c8ad5c9ae1'}
   - {seq: 75, role: markers, filename: assets/KR2a0016_075-CHANT.markers.yaml, hash: 'sha256:5d0911ac82b56b4caad55eda9729330d4154a35b96cbd6fcb92e766001175e65'}
-  - {seq: 76, role: markers, filename: assets/KR2a0016_076-CHANT.markers.yaml, hash: 'sha256:afdab30d959447989463ede509470804dffa5b291243d6a4fecedc3977bee614'}
+  - {seq: 76, role: markers, filename: assets/KR2a0016_076-CHANT.markers.yaml, hash: 'sha256:a8fef48e8a5933fa84801eb4320ff1bc505969296bb45bfa835d4fa7d89b5daf'}
   - {seq: 77, role: markers, filename: assets/KR2a0016_077-CHANT.markers.yaml, hash: 'sha256:953426c8ae9ec4d8d6e2402739d992f00a75e71dd73154cf3dee10a80111d14a'}
   - {seq: 78, role: markers, filename: assets/KR2a0016_078-CHANT.markers.yaml, hash: 'sha256:a00f568393a063e39f746a34fbc07e1252608845f34954c30d332def626ef88c'}
   - {seq: 79, role: markers, filename: assets/KR2a0016_079-CHANT.markers.yaml, hash: 'sha256:adf689cd38423ed97b47e57ba8d576938a7608c53b163ad3925016cd6048d98a'}
@@ -1124,4 +1124,4 @@ table_of_contents:
   label: 卷一百列傳第六十
   type: section
   level: 1
-hash: sha256:bd2947d34742017c183b37a087986d630ed0e4682a8346af3f0fcda36488d143
+hash: sha256:4919f5d31ddc25dd9d4e34d80f8effa2d45bc60e3a8b8054ce9fa4a262630d91

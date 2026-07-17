@@ -1541,6 +1541,7 @@ markers:
   - {type: punctuation, offset: 2836, content: (, id: KR2a0016_ZHSJ_014-bkkpn654}
   - {type: variant, offset: 2836, length: 1, content: 闕, WYG: 缺七字}
   - {type: variant, offset: 2836, length: 1, content: 闕, krp: 缺七字}
+  - {type: voice, offset: 2836, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 2837, content: ), id: KR2a0016_ZHSJ_014-bkkpn655}
   - {type: xml-element, offset: 2837, content: '', id: KR2a0016_ZHSJ_014-bkkxmlele56}
   - {type: xml-element, offset: 2837, content: '', id: KR2a0016_ZHSJ_014-bkkxmlele57}
@@ -10610,4 +10611,4 @@ markers:
   - {type: page-break, offset: 19426, content: '', id: KR2a0016_WYG_014-61b, image: WYG0257/WYG0257-0231d.png}
   - {type: variant, offset: 19426, length: 0, content: '', krp: 宋書卷十四宋書卷十四考證禮志一周之五禮其五爲嘉嘉缺二字臣承蒼按此下三條皆言冠禮周之五禮四字當提起另作一行所缺之字疑是冠禮二字舊時嵗旦臣承蒼按自此至往往猶存是禳禮當另爲一條諸本皆誤上代聘享之禮臣承蒼按自此句起亦當另爲一條其亞獻猶終獻太常光禄勲也猶字當移在終獻二字之下太祝令牲玉饌物詣塪尋繹文義令字下當有一奉字考上元辰文帝紀上作卜猶是選張華劉寔居太常之官以重儒教猶當作由殿中郎率獲車部曲在司馬之後獲諸本訛䕶臣承蒼按上文言殿中郎一人典獲車此當作獲殿中中郎率獲車部曲入次北旌門内之右獲諸本並訛䕶今從南本改正宋書卷十四考證}
   back: []
-hash: sha256:5b660377cff198eafafcf407db1554d1cc227d812d800d1e520e17ed8788f5c3
+hash: sha256:efa990770dfb7a19fd4f2b117c92c61edd1a1ce39989c9e2ea4eae5413705210

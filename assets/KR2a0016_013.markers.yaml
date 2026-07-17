@@ -4191,6 +4191,7 @@ markers:
   - {type: punctuation, offset: 5900, content: ), id: KR2a0016_ZHSJ_013-bkkpn1136}
   - {type: line-break, offset: 5900, content: '', id: ZHSJ__dup3445}
   - {type: punctuation, offset: 5902, content: (, id: KR2a0016_ZHSJ_013-bkkpn1137}
+  - {type: 'voice:problem', offset: 5902, length: 8, id: KR2a0016_bkk_013-bkkvprob1, source: parens, bucket: body, code: expected-close, message: 'expected '')'' after ''('' at offset 5902, got ''('' at offset 5910'}
   - {type: indent, offset: 5906, content: 　, id: KR2a0016_ZHSJ_013-bkkind1620}
   - {type: indent, offset: 5906, content: 　, id: KR2a0016_ZHSJ_013-bkkind1621}
   - {type: indent, offset: 5906, content: 　, id: KR2a0016_ZHSJ_013-bkkind1622}
@@ -11878,4 +11879,4 @@ markers:
   - {type: page-break, offset: 17863, content: '', id: KR2a0016_WYG_013-66b, image: WYG0257/WYG0257-0200b.png}
   - {type: variant, offset: 17863, length: 0, content: '', krp: 宋書卷十三宋書卷十三考證厯志下日法七百五十二臣永祚按周日日餘與周虛竝即日法法與景初同而數不同大抵元嘉設數減於景初求次月加大餘二十九加監本誤作如今改正不滿限數間數者皆以算上為日監本脱限字今增二十四氣日所度臣永祚按所下疑脱一在字昴九注少少字下監本有一四字衍文今刪晨見東方去日十五度半強監本日字誤在度字下今改正十八日行二十四度監本脱日行二字今增請臺勅漏郎將考騐施用從之勅諸本俱訛勒今改正元法五十九萬二千三百六十五二千監本誤作三千今改正宋書卷十三考證}
   back: []
-hash: sha256:bbac2bd0ac02a17d009413c5f02c95e986431479b434de3f27ae11dbebbc39e7
+hash: sha256:b7fc793a68f7be6114290fb35a34ff08bd14496ce5ebb4a0d1ab7dedec15d288

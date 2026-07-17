@@ -17,9 +17,11 @@ markers:
   - {type: indent, offset: 13, content: 　, id: KR2a0016_ZHSJ_052-bkkind1}
   - {type: indent, offset: 15, content: 　, id: KR2a0016_ZHSJ_052-bkkind2}
   - {type: punctuation, offset: 18, content: (, id: KR2a0016_ZHSJ_052-bkkpn1}
+  - {type: voice, offset: 18, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 20, content: ), id: KR2a0016_ZHSJ_052-bkkpn2}
   - {type: indent, offset: 20, content: 　, id: KR2a0016_ZHSJ_052-bkkind3}
   - {type: punctuation, offset: 22, content: (, id: KR2a0016_ZHSJ_052-bkkpn3}
+  - {type: voice, offset: 22, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 24, content: ), id: KR2a0016_ZHSJ_052-bkkpn4}
   - {type: indent, offset: 24, content: 　, id: KR2a0016_ZHSJ_052-bkkind4}
   - {type: variant, offset: 24, length: 1, content: 褚, WYG: 禇}
@@ -4035,4 +4037,4 @@ markers:
   - {type: page-break, offset: 7351, content: '', id: KR2a0016_WYG_052-24b, image: WYG0258/WYG0258-0140d.png}
   - {type: variant, offset: 7351, length: 0, content: '', krp: 宋書卷五十二宋書卷五十二考證謝景仁傳景仁愛其第三弟甝而憎述嘗設饌請知高祖希命甝豫坐而高祖召述述知景仁夙意請知知字疑衍述知下一本有非字袁湛傳桓元太尉奉軍事奉當作參子淳淳子桓卒南史作子淳淳子植並早卒宋書卷五十二考證}
   back: []
-hash: sha256:5a2f3a938611cbf850d4b35635f54c9e84163bbf232290b6a9eae3f9c54b3062
+hash: sha256:24bf08aa10284043b12d1fb0af0bbfb7868926833520b054466b3b9dce0b922b

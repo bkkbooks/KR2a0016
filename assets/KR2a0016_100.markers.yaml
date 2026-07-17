@@ -4534,6 +4534,7 @@ markers:
   - {type: punctuation, offset: 7607, content: 」, id: KR2a0016_ZHSJ_100-bkkpn1653}
   - {type: 'tls:seg', offset: 7607, content: '', id: KR2a0016_ZHSJ_100-d100p34s15}
   - {type: punctuation, offset: 7607, content: (, id: KR2a0016_ZHSJ_100-bkkpn1654}
+  - {type: voice, offset: 7607, length: 7, name: note, id: n1}
   - {type: punctuation, offset: 7614, content: ．, id: KR2a0016_ZHSJ_100-bkkpn1655}
   - {type: 'tls:seg', offset: 7614, content: '', id: KR2a0016_ZHSJ_100-d100p34s16}
   - {type: punctuation, offset: 7614, content: ), id: KR2a0016_ZHSJ_100-bkkpn1656}
@@ -4563,6 +4564,7 @@ markers:
   - {type: punctuation, offset: 7665, content: ．, id: KR2a0016_ZHSJ_100-bkkpn1664}
   - {type: 'tls:seg', offset: 7665, content: '', id: KR2a0016_ZHSJ_100-d100p34s24}
   - {type: punctuation, offset: 7665, content: (, id: KR2a0016_ZHSJ_100-bkkpn1665}
+  - {type: voice, offset: 7665, length: 7, name: note, id: n2}
   - {type: line-break, offset: 7669, content: '', id: ZHSJ__dup30038}
   - {type: punctuation, offset: 7672, content: ．, id: KR2a0016_ZHSJ_100-bkkpn1666}
   - {type: 'tls:seg', offset: 7672, content: '', id: KR2a0016_ZHSJ_100-d100p34s25}
@@ -4610,6 +4612,7 @@ markers:
   - {type: punctuation, offset: 7732, content: 」, id: KR2a0016_ZHSJ_100-bkkpn1682}
   - {type: 'tls:seg', offset: 7732, content: '', id: KR2a0016_ZHSJ_100-d100p34s36}
   - {type: punctuation, offset: 7732, content: (, id: KR2a0016_ZHSJ_100-bkkpn1683}
+  - {type: voice, offset: 7732, length: 7, name: note, id: n3}
   - {type: line-break, offset: 7738, content: '', id: ZHSJ__dup30040}
   - {type: punctuation, offset: 7739, content: ．, id: KR2a0016_ZHSJ_100-bkkpn1684}
   - {type: 'tls:seg', offset: 7739, content: '', id: KR2a0016_ZHSJ_100-d100p34s37}
@@ -4670,6 +4673,7 @@ markers:
   - {type: punctuation, offset: 7851, content: ．, id: KR2a0016_ZHSJ_100-bkkpn1707}
   - {type: 'tls:seg', offset: 7851, content: '', id: KR2a0016_ZHSJ_100-d100p34s57}
   - {type: punctuation, offset: 7851, content: (, id: KR2a0016_ZHSJ_100-bkkpn1708}
+  - {type: voice, offset: 7851, length: 7, name: note, id: n4}
   - {type: punctuation, offset: 7858, content: ．, id: KR2a0016_ZHSJ_100-bkkpn1709}
   - {type: 'tls:seg', offset: 7858, content: '', id: KR2a0016_ZHSJ_100-d100p34s58}
   - {type: punctuation, offset: 7858, content: ), id: KR2a0016_ZHSJ_100-bkkpn1710}
@@ -4746,6 +4750,7 @@ markers:
   - {type: punctuation, offset: 7993, content: ．, id: KR2a0016_ZHSJ_100-bkkpn1734}
   - {type: 'tls:seg', offset: 7993, content: '', id: KR2a0016_ZHSJ_100-d100p34s82}
   - {type: punctuation, offset: 7993, content: (, id: KR2a0016_ZHSJ_100-bkkpn1735}
+  - {type: voice, offset: 7993, length: 7, name: note, id: n5}
   - {type: punctuation, offset: 8000, content: ．, id: KR2a0016_ZHSJ_100-bkkpn1736}
   - {type: 'tls:seg', offset: 8000, content: '', id: KR2a0016_ZHSJ_100-d100p34s83}
   - {type: punctuation, offset: 8000, content: ), id: KR2a0016_ZHSJ_100-bkkpn1737}
@@ -5264,6 +5269,7 @@ markers:
   - {type: punctuation, offset: 8876, content: 」, id: KR2a0016_ZHSJ_100-bkkpn1938}
   - {type: 'tls:seg', offset: 8876, content: '', id: KR2a0016_ZHSJ_100-d100p37s94}
   - {type: punctuation, offset: 8876, content: (, id: KR2a0016_ZHSJ_100-bkkpn1939}
+  - {type: voice, offset: 8876, length: 6, name: note, id: n6}
   - {type: punctuation, offset: 8882, content: ．, id: KR2a0016_ZHSJ_100-bkkpn1940}
   - {type: 'tls:seg', offset: 8882, content: '', id: KR2a0016_ZHSJ_100-d100p37s95}
   - {type: punctuation, offset: 8882, content: ), id: KR2a0016_ZHSJ_100-bkkpn1941}
@@ -5390,6 +5396,7 @@ markers:
   - {type: punctuation, offset: 9104, content: 」, id: KR2a0016_ZHSJ_100-bkkpn1989}
   - {type: 'tls:seg', offset: 9104, content: '', id: KR2a0016_ZHSJ_100-d100p38s39}
   - {type: punctuation, offset: 9104, content: (, id: KR2a0016_ZHSJ_100-bkkpn1990}
+  - {type: voice, offset: 9104, length: 7, name: note, id: n7}
   - {type: punctuation, offset: 9111, content: ．, id: KR2a0016_ZHSJ_100-bkkpn1991}
   - {type: 'tls:seg', offset: 9111, content: '', id: KR2a0016_ZHSJ_100-d100p38s40}
   - {type: punctuation, offset: 9111, content: ), id: KR2a0016_ZHSJ_100-bkkpn1992}
@@ -6027,6 +6034,7 @@ markers:
   - {type: punctuation, offset: 10158, content: ．, id: KR2a0016_ZHSJ_100-bkkpn2236}
   - {type: 'tls:seg', offset: 10158, content: '', id: KR2a0016_ZHSJ_100-d100p41s18}
   - {type: punctuation, offset: 10158, content: (, id: KR2a0016_ZHSJ_100-bkkpn2237}
+  - {type: voice, offset: 10158, length: 19, name: note, id: n8}
   - {type: punctuation, offset: 10164, content: ．, id: KR2a0016_ZHSJ_100-bkkpn2238}
   - {type: 'tls:seg', offset: 10164, content: '', id: KR2a0016_ZHSJ_100-d100p41s19}
   - {type: variant, offset: 10170, length: 1, content: 臺, WYG: 䑓}
@@ -6931,4 +6939,4 @@ markers:
   - {type: page-break, offset: 11653, content: '', id: KR2a0016_WYG_100-37b, image: WYG0258/WYG0258-0701d.png}
   - {type: variant, offset: 11653, length: 0, content: '', krp: 宋書卷一百宋書卷一百考證自序髙祖深相訓納訓疑當作詶諸軍將帥毛遐祚胡崇之臧證之等臧質傳遐祚作熙祚證之作澄之璞有子曰闕伯玉字徳潤䖍子子也臣承蒼按梁書沈約傳云父淮南太守璞南史約傳前半篇悉依約自序其序璞事後亦云有子曰約是所闕之字即為約字無疑苐約自序于璞有子曰約之後復序伯玉兄弟事忽接云史臣年十三而孤壹似有意錯互其辭令人不可曉者昔裴子野作宋略書云戮淮南太守璞以其不從義師故也約懼徒跣謝罪請两釋焉今約所自序固未必盡實然且下筆羞澀如此廢帝元徽三年廢字上一夲有後字永眀二年又奏兼著作郎撰次起居注自兹王役無暇搜撰五年春又被𠡠撰宋書六年二月畢功表上之臣承蒼按沈約自序宋書成于齊武帝永眀六年今刻本題曰梁沈約撰盖要其終而命之為梁臣非言此書為梁時書也宋書卷一百考證}
   back: []
-hash: sha256:a29f96c008bf17b3ded1277f39da2b60a34defe8fcb8d7ce3e6b1c53d9d978a8
+hash: sha256:bff947e236d1966e65393cd92c60bd03595a08d62cf92fca40664b37929fb0f7

@@ -1055,6 +1055,7 @@ markers:
   - {type: punctuation, offset: 1988, content: (, id: KR2a0016_ZHSJ_086-bkkpn396}
   - {type: variant, offset: 1988, length: 1, content: 缺, WYG: 闕}
   - {type: variant, offset: 1988, length: 1, content: 缺, krp: 闕}
+  - {type: voice, offset: 1988, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 1989, content: ), id: KR2a0016_ZHSJ_086-bkkpn397}
   - {type: punctuation, offset: 1989, content: 」, id: KR2a0016_ZHSJ_086-bkkpn398}
   - {type: punctuation, offset: 1989, content: ．, id: KR2a0016_ZHSJ_086-bkkpn399}
@@ -1973,4 +1974,4 @@ markers:
   - {type: page-break, offset: 3464, content: '', id: KR2a0016_WYG_086-12b, image: WYG0258/WYG0258-0541d.png}
   - {type: variant, offset: 3464, length: 0, content: '', krp: 宋書卷八十六宋書卷八十六考證殷孝祖傳軍中人相謂曰殷統軍可謂死矣南史死字下有將字劉勔傳宗慤又命為府軍主簿府軍南本作軍府元友又云請敕荆雍兩州遣三千精兵三千南本作二千下文劉勔條荅之語亦云二千宋書卷八十六考證}
   back: []
-hash: sha256:a612341f0650f9162e79b4cf8a922a18c3e5e1e6d296943cf36dc1388b7613eb
+hash: sha256:478aeca9c84f9847b07bd4a8427a0ef6f6f7410319d5d463992991862a7b5d61

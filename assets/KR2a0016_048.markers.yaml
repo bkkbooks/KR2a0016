@@ -17,6 +17,7 @@ markers:
   - {type: variant, offset: 11, length: 0, content: '', WYG: 齡石}
   - {type: variant, offset: 11, length: 0, content: '', krp: 齡石}
   - {type: punctuation, offset: 13, content: (, id: KR2a0016_ZHSJ_048-bkkpn1}
+  - {type: voice, offset: 13, length: 3, name: note, id: n1}
   - {type: punctuation, offset: 16, content: ), id: KR2a0016_ZHSJ_048-bkkpn2}
   - {type: indent, offset: 16, content: 　, id: KR2a0016_ZHSJ_048-bkkind1}
   - {type: substitution, offset: 17, original: 脩, replacement: 修, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16957}}
@@ -2510,4 +2511,4 @@ markers:
   - {type: page-break, offset: 4685, content: '', id: KR2a0016_WYG_048-16b, image: WYG0258/WYG0258-0098b.png}
   - {type: variant, offset: 4685, length: 0, content: '', krp: 宋書卷四十八宋書卷四十八考證朱齡石傳嗣又遣南平公托跋嵩三萬騎至遂内薄攻營内一本作肉臣承蒼按肉薄二字漢書屢見之謂以身廹近其營而攻之也應從之宋書卷四十八考證}
   back: []
-hash: sha256:5bd23e73171df20d9400e6baaaf35263d16937105dc0b0dc955774c80ae4f19e
+hash: sha256:7106cb2e45519b35576434616ac154fe03e0fde9ab55d9a0f62320f83bc1aef7

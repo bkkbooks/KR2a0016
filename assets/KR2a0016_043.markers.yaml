@@ -1408,6 +1408,7 @@ markers:
   - {type: variant, offset: 2435, length: 2, content: 石胡, krp: 㬭}
   - {type: punctuation, offset: 2437, content: ']', id: KR2a0016_ZHSJ_043-bkkpn493}
   - {type: punctuation, offset: 2437, content: (, id: KR2a0016_ZHSJ_043-bkkpn494}
+  - {type: voice, offset: 2437, length: 3, name: note, id: n1}
   - {type: punctuation, offset: 2440, content: ), id: KR2a0016_ZHSJ_043-bkkpn495}
   - {type: variant, offset: 2441, length: 1, content: 黃, WYG: 黄}
   - {type: variant, offset: 2441, length: 1, content: 黃, krp: 黄}
@@ -4093,4 +4094,4 @@ markers:
   - {type: page-break, offset: 7034, content: '', id: KR2a0016_WYG_043-23b, image: WYG0258/WYG0258-0045d.png}
   - {type: variant, offset: 7034, length: 0, content: '', krp: 宋書卷四十三宋書卷四十三考證徐羡之傳羡之等重奏曰近冩下情近下一本有陳字時謝晦弟㬭為黄門郎門下一本有侍字傅亮傳霜皚皚而被墉皚皚諸本俱訛溰溰今據傅亮集改正詠倚相之遺矩矩監本訛短今據傅亮集改正宋書卷四十三考證}
   back: []
-hash: sha256:f2d9d1ac4bf5c28e331209f3396f6739963ce3a3f7cd9b8eeb65a50adb5621c7
+hash: sha256:0ed76415b3bf67f3e1d508158f1b74f2499596a671f57ab71491ead368164cad

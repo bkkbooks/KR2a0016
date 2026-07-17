@@ -18,6 +18,7 @@ markers:
   - {type: variant, offset: 14, length: 0, content: '', WYG: 懷玉}
   - {type: variant, offset: 14, length: 0, content: '', krp: 懷玉}
   - {type: punctuation, offset: 16, content: (, id: KR2a0016_ZHSJ_047-bkkpn1}
+  - {type: voice, offset: 16, length: 3, name: note, id: n1}
   - {type: punctuation, offset: 19, content: ), id: KR2a0016_ZHSJ_047-bkkpn2}
   - {type: indent, offset: 19, content: 　, id: KR2a0016_ZHSJ_047-bkkind2}
   - {type: indent, offset: 22, content: 　, id: KR2a0016_ZHSJ_047-bkkind3}
@@ -3359,4 +3360,4 @@ markers:
   - {type: page-break, offset: 6153, content: '', id: KR2a0016_WYG_047-20b, image: WYG0258/WYG0258-0090b.png}
   - {type: variant, offset: 6153, length: 0, content: '', krp: 宋書卷四十七宋書卷四十七考證劉敬宣傳遺敬宣為任遺當作遣遣孫無終討冀州刺史劉軌無終諸本皆作無絡今改正孫無終嘗為輔國將軍征孫恩有功者也檀祗傳賊射之傷敗乃入傷敗南史作傷股宋書卷四十七考證}
   back: []
-hash: sha256:21dbdb84ac961bfdd2db28596222ba606388afa2d8434229c7e848ecc8f91111
+hash: sha256:41a7b661c4be42d07f993ea9e9666e7a8007d9bcb9d524217333e9b317a90744

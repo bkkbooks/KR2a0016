@@ -6373,6 +6373,7 @@ markers:
   - {type: punctuation, offset: 10350, content: ．, id: KR2a0016_ZHSJ_034-bkkpn2204}
   - {type: 'tls:seg', offset: 10350, content: '', id: KR2a0016_ZHSJ_034-d34p287s3}
   - {type: punctuation, offset: 10350, content: (, id: KR2a0016_ZHSJ_034-bkkpn2205}
+  - {type: voice, offset: 10350, length: 3, name: note, id: n1}
   - {type: variant, offset: 10351, length: 1, content: 吳, WYG: 及}
   - {type: variant, offset: 10351, length: 1, content: 吳, krp: 及}
   - {type: variant, offset: 10352, length: 1, content: 曆, WYG: 厯}
@@ -6398,6 +6399,7 @@ markers:
   - {type: punctuation, offset: 10385, content: ．, id: KR2a0016_ZHSJ_034-bkkpn2211}
   - {type: 'tls:seg', offset: 10385, content: '', id: KR2a0016_ZHSJ_034-d34p289s3}
   - {type: punctuation, offset: 10385, content: (, id: KR2a0016_ZHSJ_034-bkkpn2212}
+  - {type: voice, offset: 10385, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 10387, content: ．, id: KR2a0016_ZHSJ_034-bkkpn2213}
   - {type: 'tls:seg', offset: 10387, content: '', id: KR2a0016_ZHSJ_034-d34p289s4}
   - {type: punctuation, offset: 10387, content: ), id: KR2a0016_ZHSJ_034-bkkpn2214}
@@ -6410,6 +6412,7 @@ markers:
   - {type: punctuation, offset: 10400, content: ．, id: KR2a0016_ZHSJ_034-bkkpn2216}
   - {type: 'tls:seg', offset: 10400, content: '', id: KR2a0016_ZHSJ_034-d34p290s3}
   - {type: punctuation, offset: 10400, content: (, id: KR2a0016_ZHSJ_034-bkkpn2217}
+  - {type: voice, offset: 10400, length: 2, name: note, id: n3}
   - {type: punctuation, offset: 10402, content: ．, id: KR2a0016_ZHSJ_034-bkkpn2218}
   - {type: 'tls:seg', offset: 10402, content: '', id: KR2a0016_ZHSJ_034-d34p290s4}
   - {type: punctuation, offset: 10402, content: ), id: KR2a0016_ZHSJ_034-bkkpn2219}
@@ -7823,4 +7826,4 @@ markers:
   - {type: page-break, offset: 12815, content: '', id: KR2a0016_WYG_034-51b, image: WYG0257/WYG0257-0633d.png}
   - {type: variant, offset: 12815, length: 0, content: '', krp: 宋書卷三十四宋書卷三十四考證五行志五氐羌反叛大兵西討監本脱西討二字今增正元徽五年六月甲寅京邑大風監本遺此一行今增居庸地裂廣三十六丈長八十四丈裂監本訛震今改正山崩地陷裂此條無上下文當有脱誤宋書卷三十四考證}
   back: []
-hash: sha256:af3f9838a2441d198313a9721f9b897335a3e48f5b9e612a71bd7b63010558bd
+hash: sha256:d25c561e3862a149efa0c81ace8123eae971db57620fc12bc70bea5b49e73e9a

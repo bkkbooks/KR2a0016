@@ -4144,6 +4144,7 @@ markers:
   - {type: punctuation, offset: 6293, content: ，, id: KR2a0016_ZHSJ_025-bkkpn1706}
   - {type: 'tls:seg', offset: 6293, content: '', id: KR2a0016_ZHSJ_025-d25p41s54}
   - {type: punctuation, offset: 6293, content: (, id: KR2a0016_ZHSJ_025-bkkpn1707}
+  - {type: voice, offset: 6293, length: 25, name: note, id: n1}
   - {type: punctuation, offset: 6297, content: ，, id: KR2a0016_ZHSJ_025-bkkpn1708}
   - {type: 'tls:seg', offset: 6297, content: '', id: KR2a0016_ZHSJ_025-d25p41s55}
   - {type: punctuation, offset: 6301, content: ．, id: KR2a0016_ZHSJ_025-bkkpn1709}
@@ -5222,4 +5223,4 @@ markers:
   - {type: page-break, offset: 7903, content: '', id: KR2a0016_WYG_025-26b, image: WYG0257/WYG0257-0467b.png}
   - {type: variant, offset: 7903, length: 0, content: '', krp: 宋書卷二十五宋書卷二十五考證天文志三太元二十年六月熒惑入天囤臣永祚按星圖無天囤星疑天囷之訛十月辛亥月奄天闗闗諸本俱作闕臣永祚按星圖無天闕必闗字之訛今改正庚申太白從行從右掖門入太㣲臣承蒼按上一從字本當作順沈約避梁武帝父名又改順為從後倣此宋書卷二十五考證}
   back: []
-hash: sha256:f448ae921e23ee4150e7d028a01a0f61c4ccc4a29298e1d9604b173d596152ae
+hash: sha256:6f88de3b1d403c06d82011cd68b5e4fe768a26bcbb9cada680dc86cb13e8687d

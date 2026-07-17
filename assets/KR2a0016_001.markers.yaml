@@ -591,6 +591,7 @@ markers:
   - {type: variant, offset: 999, length: 1, content: 彭, WYG: 皷}
   - {type: variant, offset: 999, length: 1, content: 彭, krp: 皷}
   - {type: punctuation, offset: 1001, content: (, id: KR2a0016_ZHSJ_001-bkkpn186}
+  - {type: voice, offset: 1001, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 1003, content: ), id: KR2a0016_ZHSJ_001-bkkpn187}
   - {type: line-break, offset: 1004, content: '', id: ZHSJ__dup35}
   - {type: punctuation, offset: 1005, content: ，, id: KR2a0016_ZHSJ_001-bkkpn188}
@@ -5840,4 +5841,4 @@ markers:
   - {type: page-break, offset: 9767, content: '', id: KR2a0016_WYG_001-32b, image: WYG0257/WYG0257-0030d.png}
   - {type: variant, offset: 9767, length: 0, content: '', krp: 宋書卷一宋書卷一考證武帝紀上彭城縣綏里人諸夲同南史綏下有輿字臣承蒼按劉延孫傳劉氏在彭城者分為三里帝室居綏興里南史劉康祖傳作綏輿里興輿二字相近未知孰是宋胡三省通鑑註又作綏徳里誤也晉朝衛將軍闕謝琰晉書謝琰為衛將軍與下句前將軍劉牢之書法正是一例並無闕文因諸夲多同姑仍其舊諱當反復還京口耳反復通鑑作反服注謂反初服也應從通鑑或說元曰劉諱龍行虎歩視瞻不凡南史此乃桓元妻劉氏之語視瞻一本作瞻視非劉裕莫可付以大事夲紀内凡遇帝名皆以諱字代之此獨出裕字似未畫一但諸夲皆同或者因此處乃追述桓元之語特用變例未可知也尚書王假率百官奉迎乗輿假南史作嘏由是王謐等諸人時衆民望汲古閣衆作失民作人衆驚下擊大破之驚當作軍下當作進與參軍費恬送弟喪州下州下南史作下州宋書卷一考證}
   back: []
-hash: sha256:4274ba94be89c9a9e3b9209a8d3f108b262b8e230bb348ee906ac6c19dc41a76
+hash: sha256:e052ade48d1cc76b0410352302afed1bb5f54a7c0121461bf74a19cb6ab1ec76

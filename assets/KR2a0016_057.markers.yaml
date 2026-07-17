@@ -15,6 +15,7 @@ markers:
   - {type: variant, offset: 6, length: 0, content: '', krp: 梁沈約撰}
   - {type: line-break, offset: 11, content: '', id: ZHSJ__dup19337}
   - {type: punctuation, offset: 13, content: (, id: KR2a0016_ZHSJ_057-bkkpn1}
+  - {type: voice, offset: 13, length: 3, name: note, id: n1}
   - {type: punctuation, offset: 16, content: ), id: KR2a0016_ZHSJ_057-bkkpn2}
   - {type: xml-element, offset: 16, content: '', id: KR2a0016_ZHSJ_057-bkkxmlele2}
   - {type: xml-element, offset: 16, content: '', id: KR2a0016_ZHSJ_057-bkkxmlele3}
@@ -4172,4 +4173,4 @@ markers:
   - {type: page-break, offset: 7538, content: '', id: KR2a0016_WYG_057-24b, image: WYG0258/WYG0258-0187b.png}
   - {type: variant, offset: 7538, length: 0, content: '', krp: 宋書卷五十七宋書卷五十七考證蔡廓傳自今家人與囚相見無乞鞫之訴使民以明伏罪不須責家人下辭使民一本作便足蔡興宗傳又張求人地可論其去歳愆戾非爲深罪張求南本作張永宜使喪禮粗足監本脫禮字今從南本增入宋書卷五十七考證}
   back: []
-hash: sha256:0e97cae27fbb4d1ffab2a1830e5da1766a07d0d3288eb296eedf66603128db49
+hash: sha256:06d22223dafc1fe03de1a95a0f7257238875bec488c7e034a69ad7f8b4237b4e

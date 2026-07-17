@@ -17,11 +17,13 @@ markers:
   - {type: punctuation, offset: 14, content: (, id: KR2a0016_ZHSJ_053-bkkpn1}
   - {type: variant, offset: 14, length: 2, content: 子永, WYG: ''}
   - {type: variant, offset: 14, length: 2, content: 子永, krp: ''}
+  - {type: voice, offset: 14, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 16, content: ), id: KR2a0016_ZHSJ_053-bkkpn2}
   - {type: indent, offset: 16, content: 　, id: KR2a0016_ZHSJ_053-bkkind1}
   - {type: variant, offset: 18, length: 3, content: 之弟炳, WYG: ''}
   - {type: variant, offset: 18, length: 3, content: 之弟炳, krp: ''}
   - {type: punctuation, offset: 19, content: (, id: KR2a0016_ZHSJ_053-bkkpn3}
+  - {type: voice, offset: 19, length: 3, name: note, id: n2}
   - {type: punctuation, offset: 22, content: ), id: KR2a0016_ZHSJ_053-bkkpn4}
   - {type: indent, offset: 22, content: 　, id: KR2a0016_ZHSJ_053-bkkind2}
   - {type: indent, offset: 25, content: 　, id: KR2a0016_ZHSJ_053-bkkind3}
@@ -3875,4 +3877,4 @@ markers:
   - {type: page-break, offset: 7570, content: '', id: KR2a0016_WYG_053-25b, image: WYG0258/WYG0258-0153b.png}
   - {type: variant, offset: 7570, length: 0, content: '', krp: 宋書卷五十三宋書卷五十三考證張永傳徙為江夏王義恭太尉中兵參軍太監本訛校今改正庾登之傳子冲遠冲遠南史作仲遠庾炳之傳推此而言則炳之為吏之道定於受命之日矣命南史作勅據此知當時諸府佐吏皆有勅書炳之了不聽納之非為不解直是茍相留耳下一之字南本作此屬下句臣見劉伯寵太慷慨炳之所行寵南史作龍臣照按劉伯寵見王僧䖍帖劉伯龍嘗有鬼笑營利事未知此處應是何人而伯寵伯龍莫定是一是二也謝方明傳頃之孫恩重没會稽没監本誤役一本作没臣承蒼按南史作䧟没字之義與䧟相近今改正宋書卷五十三考證}
   back: []
-hash: sha256:6e86e7fcfd1e9f9cf255469ee44d7abab7a77c5d9576f640e88dc0239a0c0c67
+hash: sha256:133db8205bc4da24b4d034616ff04af1337f3440223177486d9bc8317af56b37

@@ -3785,6 +3785,7 @@ markers:
   - {type: page-break, offset: 6559, content: '', id: KR2a0016_ZHSJ_012-0245a}
   - {type: line-break, offset: 6559, content: '', id: ZHSJ__dup2904}
   - {type: punctuation, offset: 6559, content: (, id: KR2a0016_ZHSJ_012-bkkpn1232}
+  - {type: 'voice:problem', offset: 6559, length: 6, id: KR2a0016_bkk_012-bkkvprob1, source: parens, bucket: body, code: expected-close, message: 'expected '')'' after ''('' at offset 6559, got ''('' at offset 6565'}
   - {type: indent, offset: 6565, content: 　, id: KR2a0016_ZHSJ_012-bkkind385}
   - {type: indent, offset: 6565, content: 　, id: KR2a0016_ZHSJ_012-bkkind386}
   - {type: punctuation, offset: 6565, content: (, id: KR2a0016_ZHSJ_012-bkkpn1233}
@@ -8134,4 +8135,4 @@ markers:
   - {type: page-break, offset: 13768, content: '', id: KR2a0016_WYG_012-62b, image: WYG0257/WYG0257-0166d.png}
   - {type: variant, offset: 13768, length: 0, content: '', krp: 宋書卷十二宋書卷十二考證歴志上甲寅紀第六交㑹差率十四萬八百五十九監本率下誤注闕字今從南本删滿氣法從小餘滿紀法從大餘滿紀下監本脱法字今從南本增入推卦用事日此條當提起另作一行其冬下旬夕在張心暑也臣永祚按句内必有誤字今莫可考推合朔交㑹月蝕入遲疾歴術以通周去之周諸本俱訛界今改正清明注胃一半監本脱半字今增入小滿危太弱危監本誤作亢今改正以日所在為正正監本訛作求今改正伏不盡度盡監本訛作書今改正秦氏乃稱水德理非謬然斯則劉氏所證為不値矣臣永祚按値當作直賈誼取秦云漢土德葢以是漢代秦葢諸本皆訛益今改正以字當在是字下七十五為室分臣永祚按室分即元嘉歴法所云度起室二也宋書卷十二考證}
   back: []
-hash: sha256:dd6871eea39bbbcbecf8d7665e09664865e0c2541cc070565e7c7d62b34eee08
+hash: sha256:f0c1e4e8d58d11a32e38e579d7df2902229aa9197993c43fd1eba1d1e34f0126
